@@ -23,7 +23,7 @@ This project analyzes stock market performance across the top 10 gaming companie
 
 ## 📊 Dashboard
 
-[Gaming Industry Stock Market Analysis Dashboard](images/Dashboard 1.png)
+![Gaming Industry Stock Market Analysis Dashboard](images/Dashboard 1.png)
 
 ---
 
