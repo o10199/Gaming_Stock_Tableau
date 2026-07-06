@@ -69,5 +69,3 @@ The gaming industry has transformed dramatically as an investment sector over th
 
 ---
 
-## References
-Top 10 Video Game Stocks dataset. Kaggle. `Top10VideoGameStocks.csv`
